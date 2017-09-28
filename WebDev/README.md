@@ -7,3 +7,6 @@ absorb so much information in a day, I sent the students
 home with lots of examples, in the hopes that if they ever
 find the time to go back and review their notes, the 
 examples will hopefully look somewhat familiar and make some sense.
+
+NOTE: The PDFs don't seem to display on GitHub; you'll need to
+download them in order to view them.
